@@ -1,0 +1,12 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/USER/Desktop/USE/Year3/3-2/Hardware Lab/Lab01/Lab01.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/USER/Desktop/USE/Year3/3-2/Hardware Lab/Lab01/Lab01.srcs/sim_1/new/DFlipFlop_tb.v,1580035753,verilog,,,,DFlipFlop_tb,,,,,,,,
+C:/Users/USER/Desktop/USE/Year3/3-2/Hardware Lab/Lab01/Lab01.srcs/sim_1/new/FullAdder_tb.v,1580110564,verilog,,,,FullAdder_tb,,,,,,,,
+C:/Users/USER/Desktop/USE/Year3/3-2/Hardware Lab/Lab01/Lab01.srcs/sim_1/new/Shift_tb.v,1580036169,verilog,,,,Shift_tb,,,,,,,,
+C:/Users/USER/Desktop/USE/Year3/3-2/Hardware Lab/Lab01/Lab01.srcs/sources_1/new/DFlipFlop.v,1580035242,verilog,,C:/Users/USER/Desktop/USE/Year3/3-2/Hardware Lab/Lab01/Lab01.srcs/sim_1/new/DFlipFlop_tb.v,,DFlipFlop,,,,,,,,
+C:/Users/USER/Desktop/USE/Year3/3-2/Hardware Lab/Lab01/Lab01.srcs/sources_1/new/FullAdder.v,1580034860,verilog,,C:/Users/USER/Desktop/USE/Year3/3-2/Hardware Lab/Lab01/Lab01.srcs/sources_1/new/FullAdder2.v,,FullAdder,,,,,,,,
+C:/Users/USER/Desktop/USE/Year3/3-2/Hardware Lab/Lab01/Lab01.srcs/sources_1/new/FullAdder2.v,1580034909,verilog,,C:/Users/USER/Desktop/USE/Year3/3-2/Hardware Lab/Lab01/Lab01.srcs/sim_1/new/FullAdder_tb.v,,FullAdder2,,,,,,,,
+C:/Users/USER/Desktop/USE/Year3/3-2/Hardware Lab/Lab01/Lab01.srcs/sources_1/new/Shift.v,1580035990,verilog,,C:/Users/USER/Desktop/USE/Year3/3-2/Hardware Lab/Lab01/Lab01.srcs/sim_1/new/Shift_tb.v,,ShiftA;ShiftB,,,,,,,,
