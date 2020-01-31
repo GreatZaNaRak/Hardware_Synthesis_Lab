@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/USER/Desktop/HWLAB/Lab02/Lab02.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/USER/Desktop/HWLAB/Lab02/Lab02.srcs/sources_1/new/clockDivider.v,1580459693,verilog,,C:/Users/USER/Desktop/HWLAB/Lab02/Lab02.srcs/sources_1/new/quadSevenSeg.v,,clockDivider,,,,,,,,
+C:/Users/USER/Desktop/HWLAB/Lab02/Lab02.srcs/sources_1/new/quadSevenSeg.v,1580461939,verilog,,C:/Users/USER/Desktop/HWLAB/Lab02/Lab02.srcs/sources_1/new/segmentDecoder.v,,quadSevenSeg,,,,,,,,
+C:/Users/USER/Desktop/HWLAB/Lab02/Lab02.srcs/sources_1/new/segmentDecoder.v,1580459457,verilog,,C:/Users/USER/Desktop/HWLAB/Lab02/Lab02.srcs/sources_1/new/system.v,,segmentDecoder,,,,,,,,
+C:/Users/USER/Desktop/HWLAB/Lab02/Lab02.srcs/sources_1/new/system.v,1580462120,verilog,,,,system,,,,,,,,
